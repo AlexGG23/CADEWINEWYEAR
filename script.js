@@ -6,9 +6,12 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'GRUPO CADEWI', ' TE DESEA UN', ' PROSPERO', ' Y'
-				, ' FELIZ', ' AÑO', ' 2025',
-			' EXCEPTO PARA EL SACARA REPORTES HUEVERO ESE WEY ', 'QUE CHINGUE A SU MADRE',
+			strings: [ 'GRUPO CADEWI', 
+				' TE DESEA UN', ' PROSPERO', 
+				' Y', ' FELIZ',
+				 ' AÑO', ' 2025',
+				' EXCEPTO PARA EL SACARA REPORTES'
+				 ,'HUEVERO ESE WEY ', 'QUE CHINGUE A SU MADRE',
 			],
 			charSize: 30,
 			charSpacing: 35,
